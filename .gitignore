@@ -1,3 +1,6 @@
+.phpstorm.meta.php
+_ide_helper.php
+
 /node_modules
 /public/hot
 /public/storage
@@ -41,7 +44,8 @@ tags
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
